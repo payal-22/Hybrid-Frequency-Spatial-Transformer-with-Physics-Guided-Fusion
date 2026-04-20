@@ -1,2 +1,7 @@
 # Hybrid-Frequency-Spatial-Transformer-with-Physics-Guided-Fusion
- To overcome the limitations of both purely physical models and standard data-driven deep learning networks, a Hybrid Frequency-Spatial Transformer architecture was proposed, implemented, and thoroughly evaluated.
+  ## Requirements - (If training on kaggle)
+- Verified kaggle account which gives 30 hr free GPU per week
+  ## How to download dataset
+- In kaggle add input search for uieb underwater then add UIEB raw and UIEB reference in your kaggle notebook
+  ## How to generate MLLE priors
+- Run each code block step by step 
